@@ -1,0 +1,7 @@
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\bin\Debug\CableCloud.exe.config
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\bin\Debug\CableCloud.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\bin\Debug\CableCloud.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\obj\Debug\CableCloud.csproj.CoreCompileInputs.cache
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\obj\Debug\CableCloud.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\obj\Debug\CableCloud.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\CableCloud\obj\Debug\CableCloud.csprojAssemblyReference.cache
