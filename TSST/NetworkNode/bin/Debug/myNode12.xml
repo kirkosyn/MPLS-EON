@@ -1,0 +1,4 @@
+<node id="12">
+  <cable_port>127.0.1.12</cable_port>
+  <agent>127.0.3.12</agent>
+</node>

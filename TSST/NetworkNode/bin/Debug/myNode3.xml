@@ -1,0 +1,4 @@
+<node id="3">
+  <cable_port>127.0.1.3</cable_port>
+  <agent>127.0.3.3</agent>
+</node>

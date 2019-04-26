@@ -1,0 +1,7 @@
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\bin\Debug\NetworkNode.exe.config
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\bin\Debug\NetworkNode.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\bin\Debug\NetworkNode.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\obj\Debug\NetworkNode.csproj.CoreCompileInputs.cache
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\obj\Debug\NetworkNode.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\obj\Debug\NetworkNode.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\NetworkNode\obj\Debug\NetworkNode.csprojAssemblyReference.cache
