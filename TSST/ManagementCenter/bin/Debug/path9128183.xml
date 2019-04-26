@@ -1,0 +1,31 @@
+<config>
+  <nodes>
+    <node id="12">
+      <matrix_entry num="2022">
+        <connection num="9121">
+          <start_slot>1</start_slot>
+          <end_slot>4</end_slot>
+          <port_out>2223</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+    <node id="10">
+      <matrix_entry num="1920">
+        <connection num="9121">
+          <start_slot>1</start_slot>
+          <end_slot>4</end_slot>
+          <port_out>2022</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+    <node id="9">
+      <matrix_entry num="1419">
+        <connection num="9121">
+          <start_slot>1</start_slot>
+          <end_slot>4</end_slot>
+          <port_out>1920</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+  </nodes>
+</config>

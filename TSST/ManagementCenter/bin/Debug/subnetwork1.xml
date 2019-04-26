@@ -1,0 +1,25 @@
+<config>
+  <my_network />
+  <clients>subclient.xml</clients>
+  <links>sub1links.xml</links>
+  <subnetwork id="2">
+    <address>
+    </address>
+    <links>sub2links.xml</links>
+  </subnetwork>
+  <subnetwork id="3">
+    <address>
+    </address>
+    <links>sub3links.xml</links>
+  </subnetwork>
+  <subnetwork id="4">
+    <address>
+    </address>
+    <links>sub4links.xml</links>
+  </subnetwork>
+  <subnetwork id="5">
+    <address>
+    </address>
+    <links>sub5links.xml</links>
+  </subnetwork>
+</config>

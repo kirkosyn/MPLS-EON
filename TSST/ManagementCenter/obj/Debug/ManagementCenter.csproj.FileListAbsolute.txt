@@ -1,0 +1,7 @@
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\bin\Debug\ManagementCenter.exe.config
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\bin\Debug\ManagementCenter.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\bin\Debug\ManagementCenter.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\obj\Debug\ManagementCenter.csproj.CoreCompileInputs.cache
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\obj\Debug\ManagementCenter.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\obj\Debug\ManagementCenter.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ManagementCenter\obj\Debug\ManagementCenter.csprojAssemblyReference.cache

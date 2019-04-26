@@ -1,0 +1,28 @@
+<config>
+  <clients>
+    <client id="1">
+      <address>127.0.0.1</address>
+      <port_out>9111</port_out>
+    </client>
+    <client id="2">
+      <address>127.0.0.2</address>
+      <port_out>9211</port_out>
+    </client>
+    <client id="3">
+      <address>127.0.0.3</address>
+      <port_out>9321</port_out>
+    </client>
+    <client id="4">
+      <address>127.0.0.4</address>
+      <port_out>9421</port_out>
+    </client>
+    <client id="5">
+      <address>127.0.0.1</address>
+      <port_out>11</port_out>
+    </client>
+    <client id="6">
+      <address>111</address>
+      <port_out>33</port_out>
+    </client>
+  </clients>
+</config>

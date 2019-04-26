@@ -1,0 +1,44 @@
+<config>
+  <cable_cloud>
+    <port id="2324">
+      <node_a>13</node_a>
+      <node_b>14</node_b>
+      <status>on</status>
+      <port_in>2324</port_in>
+      <port_out>2423</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="2325">
+      <node_a>13</node_a>
+      <node_b>15</node_b>
+      <status>on</status>
+      <port_in>2325</port_in>
+      <port_out>2523</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="2426">
+      <node_a>14</node_a>
+      <node_b>16</node_b>
+      <status>on</status>
+      <port_in>2426</port_in>
+      <port_out>2624</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="2526">
+      <node_a>15</node_a>
+      <node_b>16</node_b>
+      <status>on</status>
+      <port_in>2526</port_in>
+      <port_out>2625</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+  </cable_cloud>
+</config>

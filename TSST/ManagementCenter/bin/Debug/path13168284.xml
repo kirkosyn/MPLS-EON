@@ -1,0 +1,31 @@
+<config>
+  <nodes>
+    <node id="16">
+      <matrix_entry num="2526">
+        <connection num="13165">
+          <start_slot>5</start_slot>
+          <end_slot>8</end_slot>
+          <port_out>2694</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+    <node id="15">
+      <matrix_entry num="2325">
+        <connection num="13165">
+          <start_slot>5</start_slot>
+          <end_slot>8</end_slot>
+          <port_out>2526</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+    <node id="13">
+      <matrix_entry num="2223">
+        <connection num="13165">
+          <start_slot>5</start_slot>
+          <end_slot>8</end_slot>
+          <port_out>2325</port_out>
+        </connection>
+      </matrix_entry>
+    </node>
+  </nodes>
+</config>

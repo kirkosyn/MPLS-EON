@@ -1,0 +1,194 @@
+<config>
+  <cable_cloud>
+    <port id="9111">
+      <node_a>81</node_a>
+      <node_b>1</node_b>
+      <status>on</status>
+      <port_in>9111</port_in>
+      <port_out>1191</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="9211">
+      <node_a>82</node_a>
+      <node_b>1</node_b>
+      <status>on</status>
+      <port_in>9211</port_in>
+      <port_out>1192</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1112">
+      <node_a>1</node_a>
+      <node_b>2</node_b>
+      <status>on</status>
+      <port_in>1112</port_in>
+      <port_out>1211</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1114">
+      <node_a>1</node_a>
+      <node_b>4</node_b>
+      <status>on</status>
+      <port_in>1114</port_in>
+      <port_out>1411</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1215">
+      <node_a>2</node_a>
+      <node_b>5</node_b>
+      <status>on</status>
+      <port_in>1215</port_in>
+      <port_out>1512</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1213">
+      <node_a>2</node_a>
+      <node_b>3</node_b>
+      <status>on</status>
+      <port_in>1213</port_in>
+      <port_out>1312</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1316">
+      <node_a>3</node_a>
+      <node_b>6</node_b>
+      <status>on</status>
+      <port_in>1316</port_in>
+      <port_out>1613</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1314">
+      <node_a>3</node_a>
+      <node_b>4</node_b>
+      <status>on</status>
+      <port_in>1314</port_in>
+      <port_out>1413</port_out>
+      <cost>19</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1417">
+      <node_a>4</node_a>
+      <node_b>7</node_b>
+      <status>on</status>
+      <port_in>1417</port_in>
+      <port_out>1714</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1411">
+      <node_a>4</node_a>
+      <node_b>1</node_b>
+      <status>on</status>
+      <port_in>1411</port_in>
+      <port_out>1114</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1516">
+      <node_a>5</node_a>
+      <node_b>6</node_b>
+      <status>on</status>
+      <port_in>1516</port_in>
+      <port_out>1615</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1518">
+      <node_a>5</node_a>
+      <node_b>8</node_b>
+      <status>on</status>
+      <port_in>1518</port_in>
+      <port_out>1815</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1617">
+      <node_a>6</node_a>
+      <node_b>7</node_b>
+      <status>on</status>
+      <port_in>1617</port_in>
+      <port_out>1716</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1615">
+      <node_a>6</node_a>
+      <node_b>5</node_b>
+      <status>on</status>
+      <port_in>1615</port_in>
+      <port_out>1516</port_out>
+      <cost>1</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1719">
+      <node_a>7</node_a>
+      <node_b>9</node_b>
+      <status>on</status>
+      <port_in>1719</port_in>
+      <port_out>1917</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1819">
+      <node_a>8</node_a>
+      <node_b>9</node_b>
+      <status>on</status>
+      <port_in>1819</port_in>
+      <port_out>1918</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="1920">
+      <node_a>9</node_a>
+      <node_b>10</node_b>
+      <status>on</status>
+      <port_in>1920</port_in>
+      <port_out>2019</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="2093">
+      <node_a>10</node_a>
+      <node_b>83</node_b>
+      <status>on</status>
+      <port_in>2093</port_in>
+      <port_out>9320</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+    <port id="2094">
+      <node_a>10</node_a>
+      <node_b>84</node_b>
+      <status>on</status>
+      <port_in>2094</port_in>
+      <port_out>9420</port_out>
+      <cost>22</cost>
+      <slots_amount>14</slots_amount>
+      <lenght>10</lenght>
+    </port>
+  </cable_cloud>
+</config>
