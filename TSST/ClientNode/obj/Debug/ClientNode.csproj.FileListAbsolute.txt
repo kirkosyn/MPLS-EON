@@ -1,0 +1,7 @@
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\bin\Debug\ClientNode.exe.config
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\bin\Debug\ClientNode.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\bin\Debug\ClientNode.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\obj\Debug\ClientNode.csproj.CoreCompileInputs.cache
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\obj\Debug\ClientNode.exe
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\obj\Debug\ClientNode.pdb
+C:\Users\kokos\OneDrive\Dokumenty\GitHub\TSST\TSST\ClientNode\obj\Debug\ClientNode.csprojAssemblyReference.cache
